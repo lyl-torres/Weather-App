@@ -29,6 +29,10 @@ li {
   list-style: none;
 }
 
+p {
+  color: black;
+}
+
 .content {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   max-width: 600px;
